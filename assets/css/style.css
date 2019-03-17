@@ -209,3 +209,12 @@ input[type=submit]:hover {
     margin: 0 auto;
 }
 
+#main{
+    text-align:center;
+    border-style: none none none none ;
+
+}
+
+.mainpage{
+    text-align:center;
+}
